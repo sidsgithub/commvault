@@ -1,0 +1,48 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.add-server-btn {
+  display: flex;
+  align-self: flex-start;
+  left: 5%;
+}
+
+.pagination {
+  margin: 30px;
+}
+
+.MuiTableContainer-root {
+  width: 800px !important;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+.job-details {
+    margin: 40px;
+
+}
+
+.jpb-details-label{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+
+.back-btn{
+    color: blue;
+}
